@@ -35,11 +35,15 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/bootstrap/dist/css/boostrap.css",
+              "./node_modules/bootstrap/dist/css/boostrap.min.css",
               "src/styles.css"
             ],
             "scripts": [
+<<<<<<< Updated upstream
              "node_modules/bootstrap/dist/js/boostrap.bundle.js"
+=======
+            
+>>>>>>> Stashed changes
             ]
           },
           "configurations": {
