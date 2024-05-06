@@ -35,11 +35,11 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/bootstrap/dist/css/boostrap.css",
+              "node_modules/bootstrap/dist/css/boostrap.css",
               "src/styles.css"
             ],
             "scripts": [
-             "./node_modules/bootstrap/dist/js/boostrap.bundle.js"
+             "node_modules/bootstrap/dist/js/boostrap.bundle.js"
             ]
           },
           "configurations": {
